@@ -1,11 +1,12 @@
 <div align="center">
 
-<h1 align="center">📱 MobileApp_Reserve-room</h1>
-<p align="center">Mobile Room Reservation App</p>
+<img src="https://img.icons8.com/fluency/96/meeting-room.png" alt="Room Reservation Logo" width="80" />
 
-**Mobile Room Reservation App**
+<h1>📱 Mobile Room Reservation App</h1>
 
-*"Reserve rooms quickly and easily from your mobile device."*
+<p><b>Mobile Application for Meeting Room Booking</b></p>
+
+<p><i>"Book meeting rooms quickly and manage reservations from your mobile device."</i></p>
 
 <br>
 
