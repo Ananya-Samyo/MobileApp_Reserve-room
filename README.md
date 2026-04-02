@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.icons8.com/fluency/96/mobile-app.png" alt="MobileApp Reserve Logo" width="80" />
+<img src="https://img.icons8.com/color/96/mobile-app.png" width="80"/>
 
 # 📱 MobileApp_Reserve-room
 
