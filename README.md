@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://img.icons8.com/color/96/mobile-app.png" width="80"/>
-
-# 📱 MobileApp_Reserve-room
+<h1 align="center">📱 MobileApp_Reserve-room</h1>
+<p align="center">Mobile Room Reservation App</p>
 
 **Mobile Room Reservation App**
 
